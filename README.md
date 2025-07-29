@@ -25,6 +25,8 @@ Getting Started
 3. Edit the respective input section to specify:
    - Airfoil names
         - (As written on 'airfoiltools.com'. Naming convention generally is the name listed in the parentheses without '-il' appended at the end. Airfoils were scraped automatically so there may be variations in naming.)
+         <img width="752" height="360" alt="image" src="https://github.com/user-attachments/assets/480d7577-8b41-4618-8331-f84dd0493233" />
+
    - Chord lengths (in unit system of your choice)
    - Angles of attack (in degrees, with positive defined counterclockwise)
    - Slot gap (in the same unit system as chord lengths)
@@ -44,7 +46,7 @@ Author
 
 Michael West  
 B.S. Aerospace Engineering  
-University of California, Irvine  
-michaelwestportfolio.com
+University of California, Irvine
+
 
 
