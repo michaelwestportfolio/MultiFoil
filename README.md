@@ -1,7 +1,7 @@
 MultiFoil
 =========
 
-MultiFoil is a MATLAB-based tool for configuring, transforming, and exporting multi-element airfoil geometries. It supports both 2-element and 3-element setups and is designed for aerodynamic design tasks where precise control over chord length, angle of attack, overlap, and slot gap is required.
+MultiFoil is a MATLAB-based tool for configuring, transforming, and exporting multi-element airfoil geometries. It supports both 2-element and 3-element setups and is designed for aerodynamic design tasks where precise uniform control over chord length, angle of attack, overlap, and slot gap is required.
 
 All core functionality is provided through compiled `.p` files for distribution. Users interact with the tool through `MultiFoil.m` script that handles input.
 
