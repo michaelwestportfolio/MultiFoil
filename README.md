@@ -20,7 +20,7 @@ Features
 Getting Started
 ---------------
 
-1. Launch MATLAB and open 'MultiFoil.m'.
+1. Launch MATLAB and open `MultiFoil.m`.
 2. Edit line 21 to '2' or '3', depending on the desired mode.
 3. Edit the respective input section to specify:
    - Airfoil names
@@ -40,6 +40,11 @@ Requirements
 - MATLAB R2024a or later
 - Airfoil data stored in a structured `.mat` file (`airfoils.mat`)
 - All .p files must be left in the original directory
+
+License
+------------
+
+Use of MultiFoil is permitted under **CC BY-NC-SA 4.0** which can be viewed at https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Author
 ------
